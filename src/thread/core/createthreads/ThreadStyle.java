@@ -1,6 +1,8 @@
 package thread.core.createthreads;
 
 /**
+ * 描述：继承Thread实现线程
+ * <p>
  * Create By ZhangBiao
  * 2020/4/4
  */

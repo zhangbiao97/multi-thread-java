@@ -1,6 +1,8 @@
 package thread.core.createthreads;
 
 /**
+ * 描述：实现Runnable接口实现线程
+ * <p>
  * Create By ZhangBiao
  * 2020/4/4
  */
