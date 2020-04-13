@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GrepConsole">
+    <option name="pinnedGrepConsolesState">
+      <PinnedGrepConsolesState>
+        <option name="map">
+          <map>
+            <entry>
+              <key>
+                <RunConfigurationRef>
+                  <option name="icon" value="application.svg" />
+                  <option name="name" value="FieldVisibility" />
+                </RunConfigurationRef>
+              </key>
+              <value>
+                <Pins>
+                  <option name="pins">
+                    <list>
+                      <Pin>
+                        <option name="consoleUUID" value="2d7cd099-c65b-4546-80e8-0b95fe49321d" />
+                        <option name="contentType" value="ConsoleContent" />
+                        <option name="grepModel">
+                          <GrepModel>
+                            <option name="expression" value="b = 3,a = 1" />
+                            <option name="unlessExpression" value="" />
+                          </GrepModel>
+                        </option>
+                      </Pin>
+                      <Pin>
+                        <option name="consoleUUID" value="edd3e37d-da7d-48d7-a732-ebb71e18cefe" />
+                        <option name="contentType" value="ConsoleContent" />
+                        <option name="grepModel">
+                          <GrepModel>
+                            <option name="expression" value="b = 3,a = 3" />
+                            <option name="unlessExpression" value="" />
+                          </GrepModel>
+                        </option>
+                      </Pin>
+                      <Pin>
+                        <option name="consoleUUID" value="eca2c37e-0eee-45c2-82bf-049f37772d01" />
+                        <option name="contentType" value="ConsoleContent" />
+                        <option name="grepModel">
+                          <GrepModel>
+                            <option name="expression" value="b = 2,a = 3" />
+                            <option name="unlessExpression" value="" />
+                          </GrepModel>
+                        </option>
+                      </Pin>
+                      <Pin>
+                        <option name="consoleUUID" value="92a824d5-0de9-48d2-8a23-015365473376" />
+                        <option name="contentType" value="ConsoleContent" />
+                        <option name="grepModel">
+                          <GrepModel>
+                            <option name="expression" value="b = 2,a = 1" />
+                            <option name="unlessExpression" value="" />
+                          </GrepModel>
+                        </option>
+                      </Pin>
+                    </list>
+                  </option>
+                </Pins>
+              </value>
+            </entry>
+          </map>
+        </option>
+      </PinnedGrepConsolesState>
+    </option>
+  </component>
+</project>
