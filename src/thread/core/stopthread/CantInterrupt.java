@@ -1,7 +1,7 @@
 package thread.core.stopthread;
 
 /**
- * 描述：如果while里面放try/catch，会导致中断失效
+ * 描述：如果while里面放try/catch，会导致中断失效。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

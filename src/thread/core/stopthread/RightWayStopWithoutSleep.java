@@ -1,7 +1,7 @@
 package thread.core.stopthread;
 
 /**
- * 描述：run方法内没有sleep或wait方法时，停止线程
+ * 描述：run方法内没有sleep或wait方法时，停止线程。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

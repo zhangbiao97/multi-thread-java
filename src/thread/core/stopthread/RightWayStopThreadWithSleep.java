@@ -1,7 +1,7 @@
 package thread.core.stopthread;
 
 /**
- * 描述：带有sleep的中断线程的写法
+ * 描述：带有sleep的中断线程的写法。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

@@ -1,7 +1,7 @@
 package thread.core.stopthread;
 
 /**
- * 描述：run无法抛出check Exception，只能用try/catch
+ * 描述：run无法抛出check Exception，只能用try/catch。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

@@ -1,7 +1,7 @@
 package thread.core.stopthread;
 
 /**
- * 描述：最佳实践：catch了InterruptedException之后的优先选择：在方法签名中抛出异常，那么run方法就会强制try/catch
+ * 描述：最佳实践：catch了InterruptedException之后的优先选择：在方法签名中抛出异常，那么run方法就会强制try/catch。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

@@ -1,7 +1,7 @@
 package thread.core.stopthread;
 
 /**
- * 描述：如果在执行过程中，每次循环都会调用sleep或wait等方法，那么就不需要每次迭代都检查是否已中断
+ * 描述：如果在执行过程中，每次循环都会调用sleep或wait等方法，那么就不需要每次迭代都检查是否已中断。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

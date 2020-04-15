@@ -1,7 +1,7 @@
 package thread.core.stopthread.volatiledemo;
 
 /**
- * 描述：演示用volatile的局限：part1 看似可行
+ * 描述：演示用volatile的局限：part1 看似可行。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

@@ -4,7 +4,7 @@ import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
 /**
- * 描述：用中断来修复刚才的无尽等待问题。
+ * 描述： 用中断来修复刚才的无尽等待问题。
  * <p>
  * Create By ZhangBiao
  * 2020/4/5

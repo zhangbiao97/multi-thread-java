@@ -1,7 +1,7 @@
 package thread.core.sixstates;
 
 /**
- * 描述：展示Blocked、Waiting、TimedWaiting
+ * 描述：展示Blocked、Waiting、TimedWaiting。
  * <p>
  * Create By ZhangBiao
  * 2020/4/6
